@@ -11,14 +11,15 @@
         const key = 'job-coach:theme'
         let stored = null
         try { stored = localStorage.getItem(key) } catch (error) { console.warn('无法读取主题偏好', error) }
-        const theme = stored === 'light' || stored === 'dark' ? stored : matchMedia('(prefers-color-scheme: dark)').matches ? 'dark' : 'light'
+        const preference = stored === 'light' || stored === 'dark' || stored === 'system' ? stored : 'system'
+        const theme = preference === 'system' ? (matchMedia('(prefers-color-scheme: dark)').matches ? 'dark' : 'light') : preference
         document.documentElement.dataset.theme = theme
         document.documentElement.style.colorScheme = theme
         document.querySelector('meta[name="theme-color"]').content = theme === 'dark' ? '#111311' : '#f4f2ec'
       })()
     </script>
-    <script type="module" crossorigin src="/qiuzhi-page-preview/assets/index-BPteUH2P.js"></script>
-    <link rel="stylesheet" crossorigin href="/qiuzhi-page-preview/assets/index-ZIwqjF9k.css">
+    <script type="module" crossorigin src="/qiuzhi-page-preview/assets/index-CdqD1jIt.js"></script>
+    <link rel="stylesheet" crossorigin href="/qiuzhi-page-preview/assets/index-CAQn9oPu.css">
   </head>
   <body>
     <div id="root"></div>
