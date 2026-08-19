@@ -1,1 +1,0 @@
-import{a7 as r,j as a,af as s,aL as t}from"./index-Dvpai0qx.js";import"./mockRuntime-Bq16jz-u.js";function o(){const e=r({strict:!1});return a.jsx(s,{params:{experienceId:t},replace:!0,search:e.jobRef?{jobRef:e.jobRef}:{},to:"/app/experiences/$experienceId"})}export{o as ExperienceEntryPage};

@@ -1,0 +1,1 @@
+import{aD as a,j as r,aw as s,br as o}from"./index-BNzExuhs.js";import"./mockRuntime-B_2kHeE7.js";function f(){const e=a({strict:!1});return r.jsx(s,{params:{experienceId:o},replace:!0,search:{...e.jobRef?{jobRef:e.jobRef}:{},...e.handoff?{handoff:e.handoff}:{}},to:"/app/experiences/$experienceId"})}export{f as ExperienceEntryPage};
