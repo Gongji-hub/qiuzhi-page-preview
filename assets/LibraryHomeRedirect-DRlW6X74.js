@@ -1,1 +1,0 @@
-import{j as r,ac as t}from"./index-C56qNAHv.js";import{g as a}from"./libraryWorkspaceMemory-Da5q036f.js";import"./mockRuntime-OyEAkz30.js";function m(){const e=a();return r.jsx(t,{replace:!0,search:e.search,to:e.path})}export{m as LibraryHomeRedirect};
