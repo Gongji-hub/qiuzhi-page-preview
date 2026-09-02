@@ -1,0 +1,1 @@
+import"./session-BE_DFqmd.js";import{b as o}from"./planEntitlements-BZTAiGi4.js";function c(t,e,n){const i=o(t,e);return i!==null&&n>=i}const s=new Set(["850110","APPLICATION_API_850110","ENTITLEMENT_LIMIT_EXCEEDED"]);function u(t){if(!t||typeof t!="object")return!1;const e=t.code;return e===850110?!0:typeof e=="string"&&s.has(e)}export{u as a,c as i};
