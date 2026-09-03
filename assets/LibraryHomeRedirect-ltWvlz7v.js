@@ -1,1 +1,0 @@
-import{j as r,ab as t}from"./index-vl6pyDRM.js";import{g as a}from"./libraryWorkspaceMemory-DP7XtZpw.js";import"./session-BE_DFqmd.js";function m(){const e=a();return r.jsx(t,{replace:!0,search:e.search,to:e.path})}export{m as LibraryHomeRedirect};
