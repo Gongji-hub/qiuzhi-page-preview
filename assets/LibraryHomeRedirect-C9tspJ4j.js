@@ -1,0 +1,1 @@
+import{j as r,ag as t}from"./index-De3zoPh4.js";import{g as a}from"./libraryWorkspaceMemory-C8hlHAfx.js";import"./session-B15EJOhV.js";function m(){const e=a();return r.jsx(t,{replace:!0,search:e.search,to:e.path})}export{m as LibraryHomeRedirect};
