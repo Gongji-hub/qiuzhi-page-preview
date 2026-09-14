@@ -1,1 +1,0 @@
-import{j as r,a9 as t}from"./index-DADy8v3_.js";import{g as a}from"./libraryWorkspaceMemory-DxpsHW_y.js";import"./session-B15EJOhV.js";function m(){const e=a();return r.jsx(t,{replace:!0,search:e.search,to:e.path})}export{m as LibraryHomeRedirect};
