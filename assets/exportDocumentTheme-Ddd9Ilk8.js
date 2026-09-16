@@ -1,0 +1,1 @@
+const e={accent:"#2859d9",canvas:"#eef2f7",faint:"#8994a0",ink:"#1d2935",muted:"#5e6b78",rule:"#dce3eb",surface:"#ffffff"},a='"Microsoft YaHei UI","PingFang SC","Noto Sans CJK SC",Arial,sans-serif';export{e as a,a as e};
