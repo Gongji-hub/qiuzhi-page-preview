@@ -1,0 +1,1 @@
+const n=new Set;function i(t){if(typeof document>"u"||n.has(t))return;const e=document.createElement("style");e.dataset.pendingHighlight=t,e.textContent=`::highlight(${t}) { background: var(--color-brand-soft); color: inherit; }`,document.head.appendChild(e),n.add(t)}export{i as e};
