@@ -1,0 +1,1 @@
+import{co as i}from"./index-CR2ovlfB.js";const a=/^1[3-9]\d\*{4}\d{4}$/;function o(e){const n=i(e);return n?`${n.slice(0,3)}****${n.slice(-4)}`:e.trim()}function s(e,n){const t=e?.trim(),r=n?.trim();return t?i(t)||a.test(t)?o(t):t:r||"账号"}export{s as p};
