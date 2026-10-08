@@ -1,1 +1,0 @@
-import{ct as i}from"./index-BkFkoxOR.js";const a=/^1[3-9]\d\*{4}\d{4}$/;function o(e){const t=i(e);return t?`${t.slice(0,3)}****${t.slice(-4)}`:e.trim()}function s(e,t){const n=e?.trim(),r=t?.trim();return n?i(n)||a.test(n)?o(n):n:r||"账号"}export{s as p};
