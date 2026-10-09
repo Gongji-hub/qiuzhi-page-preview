@@ -1,0 +1,1 @@
+import{d0 as t,c_ as r,cZ as s,cY as u,dv as n,dw as v}from"./index-bUwZXqo3.js";const i=v;function o(a){return n(a)}function l(a){return s(a,"resume_avatar")}async function A(a,e){return r(a,e)}function d(){return u("resume_avatar_delete")}async function m(a){return t(a)}export{d as a,i as b,l as c,m as r,A as u,o as v};
