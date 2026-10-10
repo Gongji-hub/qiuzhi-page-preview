@@ -1,0 +1,1 @@
+import{d7 as t,d5 as r,d4 as s,d3 as u,dH as n,dI as v}from"./index-Byv-GUsc.js";const o=v;function c(a){return n(a)}function d(a){return s(a,"resume_avatar")}async function l(a,e){return r(a,e)}function A(){return u("resume_avatar_delete")}async function m(a){return t(a)}export{A as a,o as b,d as c,m as r,l as u,c as v};
