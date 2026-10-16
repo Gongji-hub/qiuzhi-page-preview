@@ -1,0 +1,1 @@
+import{q as e,d_ as n}from"./index-CGBRsSh4.js";import{i as a}from"./personalProfileForm-DJ1_ZMNe.js";const t=["auth","wechat-binding"];function s(){return e({queryKey:t,queryFn:n,enabled:a(),retry:!1,staleTime:3e4,refetchOnMount:"always"})}export{s as a,t as w};
