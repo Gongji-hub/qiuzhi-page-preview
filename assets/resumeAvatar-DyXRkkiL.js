@@ -1,1 +1,0 @@
-import{dI as t,dG as r,dF as s,dE as u,eC as n,eD as v}from"./index-CDtBMDtT.js";const o=v;function c(a){return n(a)}function l(a){return s(a,"resume_avatar")}async function A(a,e){return r(a,e)}function d(){return u("resume_avatar_delete")}async function m(a){return t(a)}export{d as a,o as b,l as c,m as r,A as u,c as v};
