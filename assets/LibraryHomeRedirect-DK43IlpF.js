@@ -1,1 +1,0 @@
-import{j as r,aZ as t}from"./index-CGBRsSh4.js";import{g as a}from"./libraryWorkspaceMemory-ClokUqmt.js";import"./personalProfileForm-DJ1_ZMNe.js";function m(){const e=a();return r.jsx(t,{replace:!0,search:e.search,to:e.path})}export{m as LibraryHomeRedirect};
