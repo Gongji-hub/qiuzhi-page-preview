@@ -1,1 +1,0 @@
-import{dN as t,dL as r,dK as s,dJ as u,eH as n,eI as v}from"./index-DFWKM5d-.js";const o=v;function c(a){return n(a)}function l(a){return s(a,"resume_avatar")}async function A(a,e){return r(a,e)}function d(){return u("resume_avatar_delete")}async function m(a){return t(a)}export{d as a,o as b,l as c,m as r,A as u,c as v};
