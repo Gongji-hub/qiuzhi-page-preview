@@ -1,1 +1,0 @@
-import{e1 as t,d$ as r,d_ as s,dZ as u,eX as n,eY as v}from"./index-DQr2ilog.js";const o=v;function c(a){return n(a)}function l(a){return s(a,"resume_avatar")}async function A(a,e){return r(a,e)}function d(){return u("resume_avatar_delete")}async function m(a){return t(a)}export{d as a,o as b,l as c,m as r,A as u,c as v};
