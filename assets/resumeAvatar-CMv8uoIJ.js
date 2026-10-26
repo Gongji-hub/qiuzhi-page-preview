@@ -1,0 +1,1 @@
+import{e5 as t,e3 as r,e2 as s,e1 as u,e$ as n,f0 as v}from"./index-CCDQZ-Sd.js";const o=v;function c(a){return n(a)}function l(a){return s(a,"resume_avatar")}async function A(a,e){return r(a,e)}function m(){return u("resume_avatar_delete")}async function p(a){return t(a)}export{m as a,o as b,l as c,p as r,A as u,c as v};

@@ -1,0 +1,1 @@
+import{dn as i}from"./index-CCDQZ-Sd.js";const a=/^1[3-9]\d\*{4}\d{4}$/;function o(e){const n=i(e);return n?`${n.slice(0,3)}****${n.slice(-4)}`:e.trim()}function c(e,n){const t=e?.trim(),r=n?.trim();return t?i(t)||a.test(t)?o(t):t:r||"账号"}export{c as p};
