@@ -1,0 +1,1 @@
+import{e6 as t,e4 as r,e3 as s,e2 as u,f0 as n,f1 as v}from"./index-BOclGtg7.js";const o=v;function c(a){return n(a)}function l(a){return s(a,"resume_avatar")}async function A(a,e){return r(a,e)}function m(){return u("resume_avatar_delete")}async function f(a){return t(a)}export{m as a,o as b,l as c,f as r,A as u,c as v};
