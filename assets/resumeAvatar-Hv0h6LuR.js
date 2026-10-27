@@ -1,1 +1,0 @@
-import{e7 as t,e5 as r,e4 as s,e3 as u,f1 as n,f2 as v}from"./index-DLkIax-l.js";const o=v;function c(a){return n(a)}function l(a){return s(a,"resume_avatar")}async function A(a,e){return r(a,e)}function m(){return u("resume_avatar_delete")}async function f(a){return t(a)}export{m as a,o as b,l as c,f as r,A as u,c as v};
