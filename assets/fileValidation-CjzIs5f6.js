@@ -1,0 +1,1 @@
+const a=new Set(["application/pdf","application/msword","application/vnd.ms-word","application/vnd.openxmlformats-officedocument.wordprocessingml.document"]);function s(e){return e.size===0?{valid:!1,message:"文件内容为空，请重新选择。"}:e.size>10485760?{valid:!1,message:"简历不能超过 10 MB。"}:a.has(e.type)?{valid:!0}:{valid:!1,message:"目前仅支持 PDF、DOC 或 DOCX 简历。"}}export{s as v};
