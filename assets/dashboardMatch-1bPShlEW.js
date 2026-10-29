@@ -1,0 +1,1 @@
+function r(n){return n===null?null:n>1?n/100:n}function u(n){const t=r(n);return t===null?null:Math.min(100,Math.max(0,Math.round(t*100)))}function l(n){const t=r(n);return t===null?null:t>=.9?"高匹配":t>=.8?"方向匹配":"可以看看"}export{l as a,u as m};
