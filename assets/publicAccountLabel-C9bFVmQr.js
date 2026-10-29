@@ -1,1 +1,0 @@
-import{dr as e}from"./index-DdyBVMtt.js";const a=/^1[3-9]\d\*{4}\d{4}$/;function o(t){const n=e(t);return n?`${n.slice(0,3)}****${n.slice(-4)}`:t.trim()}function c(t,n){const r=t?.trim(),i=n?.trim();return r?e(r)||a.test(r)?o(r):r:i||"账号"}export{c as p};
