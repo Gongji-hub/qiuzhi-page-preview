@@ -1,0 +1,1 @@
+function o(a,r,e=Date.now()){const n=r?Date.parse(r):e,t=Math.max(0,Math.floor((n-Date.parse(a))/1e3));return Number.isFinite(t)?`${String(Math.floor(t/60)).padStart(2,"0")}:${String(t%60).padStart(2,"0")}`:"00:00"}export{o as f};
