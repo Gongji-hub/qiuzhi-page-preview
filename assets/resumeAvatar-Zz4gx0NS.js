@@ -1,0 +1,1 @@
+import{ed as t,eb as r,ea as s,e9 as u,fn as n,fo as v}from"./index-BPgYow3D.js";const o=v;function c(a){return n(a)}function l(a){return s(a,"resume_avatar")}async function A(a,e){return r(a,e)}function m(){return u("resume_avatar_delete")}async function d(a){return t(a)}export{m as a,o as b,l as c,d as r,A as u,c as v};
