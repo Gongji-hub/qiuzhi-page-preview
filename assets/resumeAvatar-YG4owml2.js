@@ -1,0 +1,1 @@
+import{e8 as t,e6 as r,e5 as s,e4 as u,f2 as n,f3 as v}from"./index-vJD1G_xY.js";const o=v;function c(a){return n(a)}function l(a){return s(a,"resume_avatar")}async function A(a,e){return r(a,e)}function m(){return u("resume_avatar_delete")}async function f(a){return t(a)}export{m as a,o as b,l as c,f as r,A as u,c as v};
