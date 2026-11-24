@@ -1,1 +1,0 @@
-import{e9 as t,e7 as r,e6 as s,e5 as u,f3 as n,f4 as v}from"./index-COMgBjcn.js";const o=v;function c(a){return n(a)}function l(a){return s(a,"resume_avatar")}async function A(a,e){return r(a,e)}function m(){return u("resume_avatar_delete")}async function f(a){return t(a)}export{m as a,o as b,l as c,f as r,A as u,c as v};
