@@ -1,0 +1,1 @@
+import{dt as i}from"./index-Gc8pNG-2.js";const a=/^1[3-9]\d\*{4}\d{4}$/;function o(e){const t=i(e);return t?`${t.slice(0,3)}****${t.slice(-4)}`:e.trim()}function c(e,t){const n=e?.trim(),r=t?.trim();return n?i(n)||a.test(n)?o(n):n:r||"账号"}export{c as p};
